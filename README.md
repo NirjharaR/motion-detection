@@ -23,9 +23,6 @@ This repository contains the code and resources for an object detection and surv
 - CameraWebServer Library
 - Pre-trained object detection model
 
-## Wiring Diagram
-
-![Wiring Diagram](assets/wiring_diagram.png)
 
 ## Installation
 
@@ -39,7 +36,7 @@ This repository contains the code and resources for an object detection and surv
    - ESP32-CAM-Library
    - PIR-Sensor-Library
 
-3. Open the `src/main.cpp` file in your preferred IDE (e.g., Arduino IDE, PlatformIO).
+3. Open the `netraa.cpp` file in your preferred IDE.
 
 4. Upload the code to your ESP32-CAM module.
 
